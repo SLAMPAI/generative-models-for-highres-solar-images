@@ -8,7 +8,7 @@
 
 ## Introduction
 
-In this repository, we provide the code for reproducing the experiments on large-scale pre-training and transfer learning for the paper *"A Comparative Study on Generative Models for High Resolution Extreme Ultraviolet Solar Images"* ([arXiv:2106.00116](https://arxiv.org/abs/)).
+In this repository, we provide the code for reproducing the experiments on large-scale pre-training and transfer learning for the paper *"A Comparative Study on Generative Models for High Resolution Extreme Ultraviolet Solar Images"* ([arXiv:](https://arxiv.org/abs/)).
 
 ## Installation
 
