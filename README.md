@@ -14,7 +14,9 @@ In this repository, we provide the code for reproducing the experiments on large
 
 ## Obtaining solar (SDO) data
 
-## Downloading and using pre-trained models
+## Downloading models
+
+## Sampling from models
 
 ## Training experiments
 
