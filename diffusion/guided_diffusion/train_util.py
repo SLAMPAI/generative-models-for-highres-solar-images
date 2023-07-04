@@ -16,7 +16,11 @@ from .fp16_util import MixedPrecisionTrainer, state_dict_to_master_params
 from .nn import update_ema
 from .resample import LossAwareSampler, UniformSampler
 
-import horovod.torch as hvd
+try:
+    import horovod.torch as hvd
+except ImportError:
+    pass
+
 # For ImageNet experiments, this was a good default value.
 # We found that the lg_loss_scale quickly climbed to
 # 20-21 within the first ~1K steps of training.
