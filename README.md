@@ -44,10 +44,10 @@ wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/r
 
 ## Training experiments
 
-##  Results
+## Results
 
-See <figures.ipynb>.
-For samples generated fromeach model, you can download them from <https://huggingface.co/slampai/generative-models-for-highres-solar-images/tree/main>.
+See [figures.ipynb](figures.ipynb).
+Samples generated from each model are also available at <https://huggingface.co/slampai/generative-models-for-highres-solar-images/tree/main>.
 
 ## Citation
 
