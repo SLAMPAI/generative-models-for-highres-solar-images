@@ -24,11 +24,15 @@ unzip image_folder_1024x1024_normalized_log_transform_193A_40K_with_lev1.5_corre
 
 ## Downloading models
 
-### Diffusion
+### (Best) Diffusion model
 
-!wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/resolve/main/diffusion/ema_0.9999_058000.pt --output-document=ema_0.9999_058000.pt
+```bash
+wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/resolve/main/diffusion/ema_0.9999_058000.pt --output-document=ema_0.9999_058000.pt
+```
 
-### ProjectedGAN
+### ProjectedGAN models
+
+
 
 ## Sampling from models
 
