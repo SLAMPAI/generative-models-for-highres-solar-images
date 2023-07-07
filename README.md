@@ -36,11 +36,7 @@ wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/r
 
 ## Sampling from models
 
-
-## Diffusion
-
-## ProjectedGAN
-
+See the [colab](https://colab.research.google.com/drive/1ETQ48vxhBFcTu4s-j6FAjCVe14rPg02h?usp=sharing)
 
 ## Training experiments
 
