@@ -47,6 +47,7 @@ wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/r
 ## Results
 
 See [figures.ipynb](figures.ipynb).
+
 Samples generated from each model are also available at <https://huggingface.co/slampai/generative-models-for-highres-solar-images/tree/main>.
 
 ## Citation
