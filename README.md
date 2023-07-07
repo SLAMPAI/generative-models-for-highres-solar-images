@@ -14,7 +14,7 @@ In this repository, we provide the code for reproducing the experiments on large
 
 ## Obtaining solar (SDO) data
 
-The dataset is available here <https://huggingface.co/datasets/slampai/solar-sdo>.
+The dataset is available here: <https://huggingface.co/datasets/slampai/solar-sdo>.
 Download it and unzip using:
 
 ```bash
