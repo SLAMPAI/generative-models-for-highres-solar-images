@@ -34,11 +34,14 @@ unzip image_folder_1024x1024_normalized_log_transform_193A_40K_with_lev1.5_corre
 wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/resolve/main/diffusion/diffusion_1000t_lr0.0001_128ch_2bpr_horiz_flip/ema_0.9999_058000.pt --output-document=ema_0.9999_058000.pt
 ```
 
+The full set of models is available at <https://huggingface.co/slampai/generative-models-for-highres-solar-images/tree/main/models/diffusion>.
+
 ### (Best) ProjectedGAN model
 
 ```bash
 wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/resolve/main/models/projgan/00017-stylegan2-proj_baseline/network-snapshot.pkl --output-document=projgan_best.pkl
 ```
+The full set of models is available at <https://huggingface.co/slampai/generative-models-for-highres-solar-images/tree/main/models/projgan>.
 
 ## Sampling from models
 
