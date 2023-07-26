@@ -8,11 +8,7 @@
 [colab-notebook]: <https://colab.research.google.com/drive/1D-wB8OhHyb9Ag6bjGhVuDw5RTBK7ZKhb?usp=sharing>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
-
-https://github.com/SLAMPAI/generative-models-for-highres-solar-images/assets/509507/6669e96f-1edd-4c17-9c61-858812077e47
-
-
-
+https://github.com/SLAMPAI/generative-models-for-highres-solar-images/assets/509507/0d015fd4-4903-4ed9-9ffa-de820106df9d
 
 ## Introduction
 
