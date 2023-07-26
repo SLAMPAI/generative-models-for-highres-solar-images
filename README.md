@@ -51,7 +51,7 @@ TODO
 
 ## Results
 
-See [figures.ipynb](figures.ipynb).
+See [results.ipynb](results.ipynb).
 
 ## Citation
 
