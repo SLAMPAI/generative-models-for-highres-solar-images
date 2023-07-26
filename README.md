@@ -49,8 +49,6 @@ TODO
 
 See [figures.ipynb](figures.ipynb).
 
-Samples generated from each model are also available at <https://huggingface.co/slampai/generative-models-for-highres-solar-images/tree/main>.
-
 ## Citation
 
 If you find this work helpful, please cite our paper:
