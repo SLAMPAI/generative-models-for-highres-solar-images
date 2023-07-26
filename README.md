@@ -1,5 +1,5 @@
 # A Comparative Study on Generative Models for High Resolution Extreme Ultraviolet Solar Images
-*by Mehdi Cherti, Alexander Czernik, Stefan Kesselheim, Frederic Effenberger, Jenia Jitsev * [\[arXiv\]](https://arxiv.org/abs/2304.07169)
+by Mehdi Cherti, Alexander Czernik, Stefan Kesselheim, Frederic Effenberger, Jenia Jitsev  [\[arXiv\]](https://arxiv.org/abs/2304.07169)
 
 - [Short version](https://ml4astro.github.io/icml2023/assets/24.pdf) of the paper accepted at [ICML 2023 Astro workshop](https://ml4astro.github.io/icml2023/#accepted-contributions)
   
