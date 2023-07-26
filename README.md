@@ -27,18 +27,23 @@ unzip image_folder_1024x1024_normalized_log_transform_193A_40K_with_lev1.5_corre
 ### (Best) Diffusion model
 
 ```bash
-wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/resolve/main/diffusion/ema_0.9999_058000.pt --output-document=ema_0.9999_058000.pt
+wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/resolve/main/diffusion/diffusion_1000t_lr0.0001_128ch_2bpr_horiz_flip/ema_0.9999_058000.pt --output-document=ema_0.9999_058000.pt
 ```
 
-### ProjectedGAN models
+### (Best) ProjectedGAN model
 
-
+```bash
+wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/resolve/main/projgan/00017-stylegan2-proj_baseline/network-snapshot.pkl --output-document=projgan_best.pkl
+```
 
 ## Sampling from models
 
-See the [colab](https://colab.research.google.com/drive/1ETQ48vxhBFcTu4s-j6FAjCVe14rPg02h?usp=sharing).
+For diffusion models, see [colab](https://colab.research.google.com/drive/1ETQ48vxhBFcTu4s-j6FAjCVe14rPg02h?usp=sharing).
+For ProjectedGAN, see [colab]().
 
 ## Training experiments
+
+TODO 
 
 ## Results
 
@@ -57,5 +62,3 @@ If you find this work helpful, please cite our paper:
   year={2023}
 }
 ```
-
-## Acknowledgements
