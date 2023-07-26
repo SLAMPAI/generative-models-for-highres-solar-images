@@ -35,7 +35,7 @@ wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/r
 ### (Best) ProjectedGAN model
 
 ```bash
-wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/resolve/main/projgan/00017-stylegan2-proj_baseline/network-snapshot.pkl --output-document=projgan_best.pkl
+wget https://huggingface.co/slampai/generative-models-for-highres-solar-images/resolve/main/models/projgan/00017-stylegan2-proj_baseline/network-snapshot.pkl --output-document=projgan_best.pkl
 ```
 
 ## Sampling from models
