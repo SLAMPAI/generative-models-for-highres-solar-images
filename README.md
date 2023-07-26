@@ -50,10 +50,6 @@ For diffusion models, see [colab](https://colab.research.google.com/drive/1ETQ48
 For ProjectedGAN, see [colab](https://colab.research.google.com/drive/1D-wB8OhHyb9Ag6bjGhVuDw5RTBK7ZKhb?usp=sharing), also
 latent space exploration included.
 
-## Training experiments
-
-TODO 
-
 ## Results
 
 See [results.ipynb](results.ipynb).
