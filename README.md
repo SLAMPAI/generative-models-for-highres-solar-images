@@ -8,6 +8,9 @@
 [colab-notebook]: <https://colab.research.google.com/drive/1D-wB8OhHyb9Ag6bjGhVuDw5RTBK7ZKhb?usp=sharing>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
+
+[![Watch the video]()](https://www.youtube.com/shorts/B_JtghfDmwc)
+
 ## Introduction
 
 In this repository, we provide the code for reproducing the experiments on large-scale pre-training and transfer learning for the paper *"A Comparative Study on Generative Models for High Resolution Extreme Ultraviolet Solar Images"* ([arXiv](https://arxiv.org/abs/2304.07169)).
