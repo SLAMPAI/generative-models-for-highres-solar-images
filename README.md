@@ -9,7 +9,10 @@
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 
-[![Watch the video]()](https://www.youtube.com/shorts/B_JtghfDmwc)
+https://github.com/SLAMPAI/generative-models-for-highres-solar-images/assets/509507/6669e96f-1edd-4c17-9c61-858812077e47
+
+
+
 
 ## Introduction
 
