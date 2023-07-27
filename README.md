@@ -69,3 +69,13 @@ If you find this work helpful, please cite our paper:
 - Diffusion code is based on [OpenAI's ADM](https://github.com/openai/guided-diffusion), thanks to the authors.
 - ProjectedGAN code is based on <https://github.com/autonomousvision/projected-gan>, thanks to the authors.
 
+We would like to thank Ruggero Vasile for his contributions during the initial phases of the project
+with StyleGAN2 models, including data gathering, data pre-processing and preparation, as well as
+Yuri Shprits for support in the begining of the project. We would like to also thank Katja Schwarz
+for all her insights and experiment suggestions on our ProjectedGAN ablations.
+This work is supported by the Helmholtz Association Initiative and Networking Fund under the
+Helmholtz AI platform grant and the HAICORE@JSC partition. The authors gratefully acknowledge
+the Gauss Centre for Supercomputing e.V. (www.gauss-centre.eu) for funding this project by
+providing computing time through the John von Neumann Institute for Computing (NIC) on the
+GCS Supercomputer JUWELS at the Jülich Supercomputing Centre (JSC). Partial support of DFG
+(SFB 1491) is acknowledged.
