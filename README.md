@@ -14,8 +14,6 @@ https://github.com/SLAMPAI/generative-models-for-highres-solar-images/assets/509
 
 In this repository, we provide the code for *"A Comparative Study on Generative Models for High Resolution Extreme Ultraviolet Solar Images"* ([arXiv](https://arxiv.org/abs/2304.07169)).
 
-## Installation
-
 ## Obtaining solar (SDO) data
 
 The dataset is available here: <https://huggingface.co/datasets/slampai/solar-sdo>.
