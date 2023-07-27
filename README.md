@@ -63,3 +63,9 @@ If you find this work helpful, please cite our paper:
   year={2023}
 }
 ```
+
+## Ackknowledgements
+
+- Diffusion code is based on [OpenAI's ADM](https://github.com/openai/guided-diffusion), thanks to the authors.
+- ProjectedGAN code is based on <https://github.com/autonomousvision/projected-gan>, thanks to the authors.
+
